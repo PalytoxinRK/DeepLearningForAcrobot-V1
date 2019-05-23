@@ -1,2 +1,4 @@
 # DeepLearningForAcrobot-V1
 openAI游戏库中Acrobot-V1游戏应用深度强化学习进行解决
+思路在我的本科毕业论文《Acrobot-V1问题中的深度强化学习的应用》有阐述
+代码可以参考我github上的Flappy Bird的代码 主要是把卷积神经网络换成全连接神经网络，然后修改了相关参数
